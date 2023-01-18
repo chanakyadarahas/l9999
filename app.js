@@ -1,4 +1,4 @@
-const express = require("express")
+const express = require("express");
 const app = express();
 var csrf = require("tiny-csrf");
 const bodyParser = require("body-parser");
